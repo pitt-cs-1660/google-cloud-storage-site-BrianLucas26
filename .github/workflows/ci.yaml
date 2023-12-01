@@ -34,7 +34,7 @@ jobs:
         uses: 'google-github-actions/auth@v1'
         with:
           workload_identity_provider: 'projects/1007855542485/locations/global/workloadIdentityPools/github/providers/my-repo'
-          service_account: 'my-service-account@cs1660-static-site.iam.gserviceaccount.com"' # UPDATE THIS TO YOUR SERVICE ACCOUNT
+          service_account: 'my-service-account@cs1660-static-site.iam.gserviceaccount.com' # UPDATE THIS TO YOUR SERVICE ACCOUNT
 
       # upload files to GCS
       - id: 'upload-static-files'
