@@ -21,7 +21,7 @@ h1 {
 button {
     padding: 180px 200px;
     font-size: 16px;
-    background-color: red;
+    background-color: rgb(4, 0, 255);
     color: red;
 
     border: 12px solid #888; /* Add a gray border */
