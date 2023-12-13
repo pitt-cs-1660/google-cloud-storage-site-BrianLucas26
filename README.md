@@ -63,6 +63,6 @@ The project is worth 15 points and the following rubric will be used to grade yo
 - I am using an opensource project called [Hugo](https://gohugo.io/installation/) to generate my static website.
   - my repository is [here](https://github.com/dansc0de/dansc0de.run) and it is on the [internet](htttps://dansc0de.run)
 - Once your static website is in the Cloud Storage bucket, you can access it via the public URL
-  - `https://storage.googleapis.com/<your-bucket-name>/index.html`
+  - `https://storage.googleapis.com/brian-lucas-static-site/index.html`
 - You can use the following command to upload your assets to the Cloud Storage bucket before the GitHub Actions workflow is configured.
   - `gcloud storage cp . gs://<YOUR_STORAGE_BUCKET> -r`
