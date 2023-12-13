@@ -1,5 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/p3a22N-M)
 # CS1660 Static Website Project
+- Site URL: https://storage.googleapis.com/brian-lucas-static-site/index.html
+- Load Balancer IP: 34.49.46.107:443
 
 ## Project Requirements
 - Google Cloud Platform (GCP) account
