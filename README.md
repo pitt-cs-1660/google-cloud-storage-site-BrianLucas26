@@ -1,4 +1,7 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/p3a22N-M)
 # CS1660 Static Website Project
+- Site URL: https://storage.googleapis.com/brian-lucas-static-site/index.html
+- Load Balancer IP: 34.49.46.107:443
 
 ## Project Requirements
 - Google Cloud Platform (GCP) account
@@ -62,6 +65,6 @@ The project is worth 15 points and the following rubric will be used to grade yo
 - I am using an opensource project called [Hugo](https://gohugo.io/installation/) to generate my static website.
   - my repository is [here](https://github.com/dansc0de/dansc0de.run) and it is on the [internet](htttps://dansc0de.run)
 - Once your static website is in the Cloud Storage bucket, you can access it via the public URL
-  - `https://storage.googleapis.com/<your-bucket-name>/index.html`
+  - `https://storage.googleapis.com/brian-lucas-static-site/index.html`
 - You can use the following command to upload your assets to the Cloud Storage bucket before the GitHub Actions workflow is configured.
   - `gcloud storage cp . gs://<YOUR_STORAGE_BUCKET> -r`
